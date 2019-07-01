@@ -1,0 +1,1 @@
+exports.MONGODBURL = 'mongodb://localhost/project3';
